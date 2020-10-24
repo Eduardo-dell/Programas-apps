@@ -1,2 +1,2 @@
 # Programas-apps
-Apps em react, Java.
+Apps em liguagens web e java.
